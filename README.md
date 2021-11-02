@@ -10,3 +10,5 @@ I learned how to wield the fundamentals of statistics to derive obscure insights
 
 Through the ML projects, I learned how to build complete machine learning pipelines starting from data cleaning, feature transformation, EDA, 
 feature engineering, feature selection, validation, model training, parameter tuning and evaluation.
+
+These projects didn't just solidfy my data science concepts but also taught me to write clean, succinct and reproducible code.
