@@ -1,5 +1,5 @@
 # Datacamp-Projects
-![image](https://user-images.githubusercontent.com/61198990/139827602-8dfba560-b3bb-4115-94e5-0ce8ba01b0b2.png)
+<img src = "https://user-images.githubusercontent.com/61198990/139827602-8dfba560-b3bb-4115-94e5-0ce8ba01b0b2.png" width="800" height="300">
 
 This contains the datasets and solutions for all the EDA and Machine Learning projects I have done on the Datacamp platform. 
 
