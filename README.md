@@ -3,6 +3,9 @@
 
 This contains the datasets and solutions for all the EDA and Machine Learning projects I have done on the Datacamp platform. 
 
+| Project | Task type | Description |
+| --- | --- | --- |
+
 These projects had problems belonging to different domains which helped in developing a broadened approach while handling any kind of data science task.
 
 Through the EDA projects, I learned how visualizations can reveal a lot of information about the data that one fails to notice while working on the tabular form. 
